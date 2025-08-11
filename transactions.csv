@@ -1,0 +1,6 @@
+TxnID,CustomerID,Product,Quantity,Amount,TxnDate
+1,101,Shoes,1.0,2500.0,2024-06-01
+2,102,T-Shirt,,1200.0,2024-06-01
+3,103,Watch,1.0,3500.0,2024-06-02
+4,101,Bag,2.0,,2024-06-03
+5,101,Shoes,1.0,2500.0,2024-06-01
